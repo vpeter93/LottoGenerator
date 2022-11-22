@@ -25,7 +25,7 @@ Ezt az alkalmazást nem úgy programoztam be, hogy személyazonosításra alkalm
 Ha olyan biztonsági rést talál, amelyet véletlenül én okoztam, vagy bármilyen kérdése van azzal kapcsolatban, hogy az alkalmazás hogyan védi az Ön személyes adatait, kérjük, küldjön egy e-mailt, és minden bizonnyal megpróbálom kijavítani/segíteni.
 
 Üdvözlettel:
-Varga Péter,
-Magyarország, Budapest
+Varga Péter.
+Magyarország, Budapest.
 vpeter93@hotmail.com
 
